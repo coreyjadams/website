@@ -1,0 +1,58 @@
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  copy(/Users/cja33/Sites/GetSimpleCMS-3.3.4/backups/tmp.tmp): failed to open stream: Permission denied in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 45
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 48
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  copy(/Users/cja33/Sites/GetSimpleCMS-3.3.4/backups/tmp.tmp): failed to open stream: Permission denied in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 49
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  copy(/Users/cja33/Sites/GetSimpleCMS-3.3.4/backups/other/tmp.tmp): failed to open stream: Permission denied in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 45
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 48
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  copy(/Users/cja33/Sites/GetSimpleCMS-3.3.4/backups/other/tmp.tmp): failed to open stream: Permission denied in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 49
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  copy(/Users/cja33/Sites/GetSimpleCMS-3.3.4/backups/pages/tmp.tmp): failed to open stream: Permission denied in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 45
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 48
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  copy(/Users/cja33/Sites/GetSimpleCMS-3.3.4/backups/pages/tmp.tmp): failed to open stream: Permission denied in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 49
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  copy(/Users/cja33/Sites/GetSimpleCMS-3.3.4/backups/zip/tmp.tmp): failed to open stream: Permission denied in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 45
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 48
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  copy(/Users/cja33/Sites/GetSimpleCMS-3.3.4/backups/zip/tmp.tmp): failed to open stream: Permission denied in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 49
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  mkdir(): Permission denied in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 56
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  copy(/Users/cja33/Sites/GetSimpleCMS-3.3.4/backups/users/tmp.tmp): failed to open stream: No such file or directory in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 57
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): No such file or directory in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 59
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  copy(/Users/cja33/Sites/GetSimpleCMS-3.3.4/backups/users/tmp.tmp): failed to open stream: No such file or directory in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 60
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:21 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/template/footer.php on line 18
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:37 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/template/footer.php on line 18
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/install.php on line 44
+[11-Dec-2014 18:52:52 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/template/footer.php on line 18
+[11-Dec-2014 18:53:06 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/template/footer.php on line 18
+[11-Dec-2014 18:53:53 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/setup.php on line 99
+[11-Dec-2014 18:53:53 UTC] PHP Warning:  fopen(/Users/cja33/Sites/GetSimpleCMS-3.3.4/.htaccess): failed to open stream: Permission denied in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/setup.php on line 125
+[11-Dec-2014 18:53:53 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/setup.php on line 126
+[11-Dec-2014 18:53:53 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/setup.php on line 127
+[11-Dec-2014 18:53:53 UTC] PHP Warning:  rename(/Users/cja33/Sites/GetSimpleCMS-3.3.4/temp.gsconfig.php,/Users/cja33/Sites/GetSimpleCMS-3.3.4/gsconfig.php): Permission denied in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/setup.php on line 145
+[11-Dec-2014 18:53:53 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/inc/basic.php on line 115
+[11-Dec-2014 18:53:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/setup.php:99) in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/inc/cookie_functions.php on line 23
+[11-Dec-2014 18:53:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/setup.php:99) in /Users/cja33/Sites/GetSimpleCMS-3.3.4/admin/inc/cookie_functions.php on line 24
