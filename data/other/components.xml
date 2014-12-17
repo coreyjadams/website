@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<channel><item><title><![CDATA[Sidebar]]></title><slug>sidebar</slug><value><![CDATA[&lt;img src=&quot;Pictures/CoreyAdams.png&quot; alt=&quot;Corey Adams&quot; style=&quot;width:100%;height:auto&quot; &gt;]]></value></item><item><title><![CDATA[Tagline]]></title><slug>tagline</slug><value><![CDATA[Graduate Student, Yale University]]></value></item></channel>
+<channel><item><title><![CDATA[Sidebar]]></title><slug>sidebar</slug><value><![CDATA[&lt;img src=&quot;Pictures/CoreyAdams.png&quot; alt=&quot;Corey Adams&quot; style=&quot;width:80%;height:auto&quot; &gt;]]></value></item><item><title><![CDATA[Tagline]]></title><slug>tagline</slug><value><![CDATA[Graduate Student, Yale University]]></value></item></channel>

@@ -11,7 +11,7 @@ include('header.inc.php');
 ?>		
 		<figure >
             <?php get_component('homeimg'); ?>            
-        </figure>
+    </figure>
           
 		<nav class="sixteen columns">
 		<hr />
@@ -28,7 +28,7 @@ include('header.inc.php');
 		
 		<aside class="six columns ">
 		<?php get_component('sidebar');	?>
-	    </aside>
+    </aside>
 
 	</div><!-- container -->
     
