@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Tue, 16 Dec 2014 16:28:26 -0500</pubDate><title>Talks</title><url>talks</url><meta></meta><metad></metad><menu>Talks</menu><menuStatus>Y</menuStatus><template>template.php</template><parent></parent><content>&amp;lt;!DOCTYPE html&amp;gt;
-&amp;lt;html&amp;gt;
-&amp;lt;head&amp;gt;
-&amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;
-&amp;lt;title&amp;gt;Talks&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
+<item><pubDate>Mon, 22 Dec 2014 15:00:00 -0500</pubDate><title><![CDATA[Talks]]></title><url><![CDATA[talks]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Talks]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[page.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Talks&lt;/title&gt;
+&lt;/head&gt;
 
-&amp;lt;body&amp;gt;
-Here are some of my recent talks:
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt; &amp;lt;a href=&amp;quot;NuINT_CAdams.pdf&amp;quot; target=&amp;quot;_blank&amp;quot; &amp;gt; NuINT 2014 &amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt; &amp;lt;a href=&amp;quot;WIDG_CAdams.pdf&amp;quot; target=&amp;quot;_blank&amp;quot; &amp;gt; WIDG Talk &amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt; &amp;lt;a href=&amp;quot;SBN_CAdams.pdf&amp;quot; target=&amp;quot;_blank&amp;quot; &amp;gt; SBN Talk &amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt;
-&amp;lt;!-- &amp;lt;li&amp;gt; New Haven Public Libary .... &amp;lt;/li&amp;gt; --&amp;gt;
-&amp;lt;/ul&amp;gt;
-&amp;lt;/body&amp;gt;
+&lt;body&gt;
+Here are some of my recent talks: &lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;NuINT_CAdams.pdf&quot; target=&quot;_blank&quot; &gt; NuINT 2014  &lt;/a&gt;   and the &lt;a href=http://nuint14.iopconfs.org/home&gt;Conference Webpage&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt; Weak Interacation Discussion Group  &lt;a href=&quot;WIDG_CAdams.pdf&quot; target=&quot;_blank&quot; &gt; Talk &lt;/a&gt; at Yale University &lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;SBN_CAdams.pdf&quot; target=&quot;_blank&quot; &gt;Presentation&lt;/a&gt; at the Short Baseline Neutrino Program Meeting &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/body&gt;
 
-&amp;lt;/html&amp;gt;
-</content><private></private><author>cadams</author><menuOrder><![CDATA[3]]></menuOrder></item>
+&lt;/html&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[cadams]]></author><creDate>Tue, 16 Dec 2014 16:28:26 -0500</creDate><user><![CDATA[cadams]]></user><menuOrder><![CDATA[2]]></menuOrder></item>

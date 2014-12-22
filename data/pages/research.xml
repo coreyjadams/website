@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Thu, 11 Dec 2014 17:01:51 -0500</pubDate><title>Research</title><url>research</url><meta></meta><metad></metad><menu>Research</menu><menuStatus>Y</menuStatus><template>template.php</template><parent></parent><content></content><private></private><author>cadams</author><menuOrder><![CDATA[2]]></menuOrder></item>
+<item><pubDate>Mon, 22 Dec 2014 14:54:50 -0500</pubDate><title><![CDATA[Research]]></title><url><![CDATA[research]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Research]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[page.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;My research is focused on Liquid Argon Time Projection Chambers (TPC).  &lt;a href=&quot;http://www-microboone.fnal.gov/&quot;&gt;MicroBooNE&lt;/a&gt;, the largest liquid argon TPC to be constructed in the United States, is the experiment that will provide my thesis data. &lt;/p&gt;
+
+&lt;p&gt; I am also a member of the &lt;a href=&quot;http://www-microboone.fnal.gov/&quot;&gt;ArgoNeuT&lt;/a&gt; collaboration, which was the first liquid argon TPC in a test beam in the United States.  ArgoNeuT was removed from the NuMI beam at Fermilab in March 2010 and the TPC and cryostat was reborn as the &lt;a   href=&quot;http://intensityfrontier.fnal.gov/lariat.html&quot;&gt;LArIAT&lt;/a&gt; experiment. &lt;/p&gt;
+
+&lt;p&gt;Recently, I have been active in the Short Baseline Neutrino Program at Fermilab.  The SBN program will bring together  LAr1-ND (a proposed near detector), MicroBooNE, and the ICARUS T600 experiment as a near, middle and far detector (respectively) along the Booster Neutrino Beam at Fermilab (see picture, below).  The full program should be operational by 2018.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;Pictures/AerialDiagram.jpg&quot; alt=&quot;The SBN Program at Fermilab&quot; width=&quot;100%&quot;&gt;
+  &lt;figcaption&gt;The Short Baseline Neutrino Program at Fermilab.  From right to left there is the target hall, LAr1-ND, MicroBooNE, and the proposed location of the T600 detector.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[cadams]]></author><creDate>Thu, 11 Dec 2014 17:01:51 -0500</creDate><user><![CDATA[cadams]]></user><menuOrder><![CDATA[1]]></menuOrder></item>
